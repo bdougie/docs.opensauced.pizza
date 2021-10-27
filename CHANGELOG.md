@@ -1,3 +1,10 @@
+## [1.5.0](https://github.com/bdougie/docs.opensauced.pizza/compare/v1.4.2...v1.5.0) (2021-10-27)
+
+
+### Documentation
+
+* quick test ([7eabe0f](https://github.com/bdougie/docs.opensauced.pizza/commit/7eabe0fd364a6347d9a1cb55fe67910847e7a75a))
+
 ### [1.4.2](https://github.com/open-sauced/docs.opensauced.pizza/compare/v1.4.1...v1.4.2) (2021-10-25)
 
 
