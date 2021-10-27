@@ -6,7 +6,7 @@ module.exports = {
   title: 'Open Sauced',
   tagline: 'Dinosaurs are cool',
   url: 'https://bdougie.github.io/docs.opensauced.pizza/',
-  baseUrl: '/',
+  baseUrl: '/docs.opensauced.pizza/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
