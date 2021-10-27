@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Open Sauced',
   tagline: 'Dinosaurs are cool',
-  url: 'https://docs.opensauced.pizza',
+  url: 'https://bdougie.github.io/docs.opensauced.pizza/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
