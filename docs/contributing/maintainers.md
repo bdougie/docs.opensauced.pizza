@@ -5,6 +5,7 @@
 1. Sign up for [opensauced.pizza](https://opensauced.pizza)
 1. Join [discord](https://discord.gg/gZMKK5q). 
 1. Prove your pizza worth!
+2. dominoes
 
 ## Requirements
 
