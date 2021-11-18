@@ -1,3 +1,10 @@
+### [1.5.1](https://github.com/bdougie/docs.opensauced.pizza/compare/v1.5.0...v1.5.1) (2021-11-18)
+
+
+### Bug Fixes
+
+* Removed whitespace ([7da2aeb](https://github.com/bdougie/docs.opensauced.pizza/commit/7da2aebb5622ee04ff07b53c752dc6cdfce834a2))
+
 ## [1.5.0](https://github.com/bdougie/docs.opensauced.pizza/compare/v1.4.2...v1.5.0) (2021-10-27)
 
 
